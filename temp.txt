@@ -1,2 +1,3 @@
 Welcome to Git and GitHub Training
-From Abhresh Sugandhi!!
+From Simplilearn!
+Delivered by Abhresh Sugandhi!!
